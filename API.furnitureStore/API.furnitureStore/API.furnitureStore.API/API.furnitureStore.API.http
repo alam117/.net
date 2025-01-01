@@ -1,0 +1,6 @@
+@API.furnitureStore.API_HostAddress = http://localhost:5005
+
+GET {{API.furnitureStore.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
