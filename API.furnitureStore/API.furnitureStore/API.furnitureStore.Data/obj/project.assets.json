@@ -1139,6 +1139,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "API.furnitureStore.shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/API.furnitureStore.shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.furnitureStore.shared.dll": {}
+        }
       }
     }
   },
@@ -3220,10 +3230,16 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "API.furnitureStore.shared/1.0.0": {
+      "type": "project",
+      "path": "../API.furnitureStore.shared/API.furnitureStore.shared.csproj",
+      "msbuildProject": "../API.furnitureStore.shared/API.furnitureStore.shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "API.furnitureStore.shared >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Sqlite >= 9.0.0",
@@ -3237,11 +3253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.Data\\API.furnitureStore.Data.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.Data\\API.furnitureStore.Data.csproj",
       "projectName": "API.furnitureStore.Data",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.Data\\API.furnitureStore.Data.csproj",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.Data\\API.furnitureStore.Data.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.Data\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3262,7 +3278,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.shared\\API.furnitureStore.shared.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.shared\\API.furnitureStore.shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
