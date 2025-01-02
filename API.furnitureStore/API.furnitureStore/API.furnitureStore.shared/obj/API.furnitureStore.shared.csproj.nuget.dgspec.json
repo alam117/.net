@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.shared\\API.furnitureStore.shared.csproj": {}
+    "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.shared\\API.furnitureStore.shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.shared\\API.furnitureStore.shared.csproj": {
+    "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.shared\\API.furnitureStore.shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.shared\\API.furnitureStore.shared.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.shared\\API.furnitureStore.shared.csproj",
         "projectName": "API.furnitureStore.shared",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.shared\\API.furnitureStore.shared.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.shared\\API.furnitureStore.shared.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.shared\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\CursoAspNet\\APIMastery.NET\\.net\\.net\\API.furnitureStore\\API.furnitureStore\\API.furnitureStore.shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
