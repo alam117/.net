@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.furnitureStore.Data
 {
-    internal class APIFurnitureStoreContext : DbContext
+    public class APIFurnitureStoreContext : DbContext
     {
         public APIFurnitureStoreContext(DbContextOptions options):base(options) { }
         public DbSet<Client> Clients { get; set; }
