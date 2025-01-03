@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\CursoAspNet\APIMastery.NET\.net\.net\API.furnitureStore\API.furnitureStore\API.furnitureStore.shared\bin\Debug\net8.0\API.furnitureStore.shared.deps.json
+C:\Users\hp\source\repos\CursoAspNet\APIMastery.NET\.net\.net\API.furnitureStore\API.furnitureStore\API.furnitureStore.shared\bin\Debug\net8.0\API.furnitureStore.shared.dll
+C:\Users\hp\source\repos\CursoAspNet\APIMastery.NET\.net\.net\API.furnitureStore\API.furnitureStore\API.furnitureStore.shared\bin\Debug\net8.0\API.furnitureStore.shared.pdb
+C:\Users\hp\source\repos\CursoAspNet\APIMastery.NET\.net\.net\API.furnitureStore\API.furnitureStore\API.furnitureStore.shared\obj\Debug\net8.0\API.furnitureStore.shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CursoAspNet\APIMastery.NET\.net\.net\API.furnitureStore\API.furnitureStore\API.furnitureStore.shared\obj\Debug\net8.0\API.furnitureStore.shared.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CursoAspNet\APIMastery.NET\.net\.net\API.furnitureStore\API.furnitureStore\API.furnitureStore.shared\obj\Debug\net8.0\API.furnitureStore.shared.AssemblyInfo.cs
+C:\Users\hp\source\repos\CursoAspNet\APIMastery.NET\.net\.net\API.furnitureStore\API.furnitureStore\API.furnitureStore.shared\obj\Debug\net8.0\API.furnitureStore.shared.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CursoAspNet\APIMastery.NET\.net\.net\API.furnitureStore\API.furnitureStore\API.furnitureStore.shared\obj\Debug\net8.0\API.furnitureStore.shared.sourcelink.json
+C:\Users\hp\source\repos\CursoAspNet\APIMastery.NET\.net\.net\API.furnitureStore\API.furnitureStore\API.furnitureStore.shared\obj\Debug\net8.0\API.furnitureStore.shared.dll
+C:\Users\hp\source\repos\CursoAspNet\APIMastery.NET\.net\.net\API.furnitureStore\API.furnitureStore\API.furnitureStore.shared\obj\Debug\net8.0\refint\API.furnitureStore.shared.dll
+C:\Users\hp\source\repos\CursoAspNet\APIMastery.NET\.net\.net\API.furnitureStore\API.furnitureStore\API.furnitureStore.shared\obj\Debug\net8.0\API.furnitureStore.shared.pdb
+C:\Users\hp\source\repos\CursoAspNet\APIMastery.NET\.net\.net\API.furnitureStore\API.furnitureStore\API.furnitureStore.shared\obj\Debug\net8.0\ref\API.furnitureStore.shared.dll
