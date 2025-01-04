@@ -30,6 +30,12 @@ namespace API.furnitureStore.API.Controllers
             }
             return Ok(product);
         }
+        [HttpGet("getByCategory/{productCategoryid}")]
+        public async Task<IEnumerable<Product>> getbycategory(int productCategoryid)
+        {
+            return await _context.products.Where(x=>x.ProductCategoryId==productCategoryid).ToListAsync();
+        } 
+
         [HttpPost]
         public async Task<IActionResult> post(Product product)
         {
@@ -52,5 +58,4 @@ namespace API.furnitureStore.API.Controllers
             return NoContent();
         }
     }
-
 }

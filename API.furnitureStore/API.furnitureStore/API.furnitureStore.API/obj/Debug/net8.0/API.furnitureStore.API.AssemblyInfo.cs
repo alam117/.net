@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API.furnitureStore.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f34ee087627fed43ebe03e28785b2abcc97991d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdbfd89f583639ba1e6c3055aae101d3206e74f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("API.furnitureStore.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API.furnitureStore.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
