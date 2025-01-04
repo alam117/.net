@@ -13,5 +13,6 @@ namespace API.furnitureStore.shared
         public int ClientId {get; set;}
         public DateTime OrderDate { get; set; }
         public DateTime DeliveryDate { get; set; }
+        public List<OrderDetail> orderDetails { get; set; }
     }
 }
